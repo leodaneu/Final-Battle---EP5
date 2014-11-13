@@ -2,6 +2,7 @@
 
 /* Feito por Yan, O Monitor Mais Rápido do Oeste */
 /* DIAS!!!! */
+/* MANE MA PUNUMANE!!!!! */
 static Direction lookDir;
 static char charging;
 
