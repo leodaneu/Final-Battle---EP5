@@ -1,6 +1,7 @@
 #include "../robot_fight.h"
 
 /* Feito por Yan, O Monitor Mais Rápido do Oeste */
+/* JÚLIA!!!!!! */
 
 static Direction lookDir;
 static char charging;
